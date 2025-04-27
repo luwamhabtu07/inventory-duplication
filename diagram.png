@@ -1,0 +1,9 @@
+[Step 1] Count extra zeros to duplicate
+         ↓
+[Step 2] Set two pointers at end
+         ↓
+[Step 3] Move backwards:
+           - If zero → write two zeros
+           - Else → write value once
+         ↓
+[End] All done in-place
